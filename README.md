@@ -30,4 +30,4 @@ Buttons:
 Operation signs:
 - The operation signs are basic mathmatical operations instead of one used for typing (× instead of * and ÷ insteead of /)<br?
 
-<a href="task"><image src="?raw=true" title="The Task" width=500
+<a href="https://github.com/TomCqr/Python-Calculator/blob/main/Images/screenshot_un.png"><image src="?raw=true" title="Python Calculator" width=500
