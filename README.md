@@ -1,16 +1,25 @@
-## Customised Python Calculator
-### Fit for purpose<br>
+---
+Author - Tom Collier: Design and Develop a costomised python calculator
+---
+
+# Customised Python Calculator
+
+## Members of the Development Team
+- Tom Collier
+
+## The design
+* Colour
+  * The colours I have chosen for the calculator is taken from my design for the age group
+  * The website that I used for this is [**Matplolib.org**](https://matplotlib.org/stable/gallery/color/named_colors.html)
+  
+* Layout
+  * Here's a link to my design in Miro: [**Miro.com**](https://miro.com/app/board/uXjVPUK4jBY=/)<br>
+
 This calculator is intented for primary schoold aged kids (8-11 years)
-#### Design brief:
-
-The design brief below is in refrence to the wireframe design board in Miro
-
-https://miro.com/app/board/uXjVPUK4jBY=/
 
 
 Colour:
-- I made the number buttons a different colour from the operation buttons so they are easily distinguishable from each other.<br>
-- The text is a darker colour so it stands out from the buttons and is easy to read.<br>
+- 
 
 Buttons:
 - I only used simple operations because younger kids may not understand or have a use for more complex operations.<br>
@@ -20,3 +29,5 @@ Buttons:
 
 Operation signs:
 - The operation signs are basic mathmatical operations instead of one used for typing (× instead of * and ÷ insteead of /)<br?
+
+<a href="task"><image src="?raw=true" title="The Task" width=500
