@@ -35,4 +35,4 @@ Operation signs:
 
 
 
-<a href="https://github.com/TomCqr/Python-Calculator/blob/main/Images/screenshot_un.png"><image src="?raw=true" title="Python Calculator" width=500
+<a href="https://github.com/TomCqr/Python-Calculator/blob/main/Images/CalcGUI.png"><image src="?raw=true" title="Python Calculator" width=500>
