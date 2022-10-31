@@ -30,4 +30,4 @@ Operation signs:
 * Layout
   * Here's a link to my design in Miro: [**Miro.com**](https://miro.com/app/board/uXjVPUK4jBY=/)<br>
 
-<a href="https://github.com/TomCqr/Python-Calculator/blob/main/Images/CalcGUI.png"><image src="?raw=true" title="Python Calculator" width=500>
+<image src="https://github.com/TomCqr/Python-Calculator/blob/main/Images/CalcGUI.png" title="Python Calculator" width=500>
