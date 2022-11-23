@@ -7,6 +7,7 @@
 
 from ctypes.wintypes import RGB
 from tkinter import *
+from tkinter.tix import COLUMN
 from turtle import color # import everything from  the tkinter library
 
 # Declaring variables
@@ -58,7 +59,7 @@ def clear(): # Clears the equation_label for the next calculation
 
 window =Tk()
 window.title("Python Calculator")
-window.geometry("433x610")
+window.geometry("433x645")
 window.configure(bg="cornflowerblue")
 
 equation_text = ""
@@ -125,8 +126,8 @@ equal.grid(row=4, column=3)
 decimal = Button(frame, text='.', height=4, width=9, font=35,  fg=text_colour, bg = op_colour, command=lambda: button_press('.'))
 decimal.grid(row=3, column=1)
 
-clear = Button(window, text='Clear', height=50, width=50,  fg=text_colour, bg = op_colour, font=35, command=clear)
-clear.pack()
+clear = Button(frame, text='Clear', height=4, width=29,  fg=text_colour, bg = op_colour, font=35, command=clear)
+clear.grid(row= 4, column=0, columnspan=3)
 
 
 
